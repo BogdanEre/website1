@@ -205,3 +205,11 @@ a.find-out:hover:after {
     border-left: 26px solid #808080;
 }
 
+@media only screen and (max-width: 450px) {
+    .light {
+    background-position: 50% 35%;
+    }
+    .copyright, .social {
+        top: -30px;
+    }
+}
