@@ -207,9 +207,9 @@ a.find-out:hover:after {
 
 @media only screen and (max-width: 450px) {
     .light {
-    background-position: 50% 35%;
+    background-position: 50% 40%;
     }
     .copyright, .social {
-        top: -40px;
+        top: -45px;
     }
 }
