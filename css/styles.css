@@ -119,7 +119,7 @@ body {
 /*=================== second page social copyright line ===================*/
 
 .dark-description{
-    position: absolute;
+    position: fixed;
     margin: auto;
     left: 0;
     bottom: -100px;
