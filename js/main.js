@@ -24,6 +24,6 @@ $(document).ready(function () {
     $('.arrow').delay(2000).fadeIn(1000);
     $(".copyright, .copyright2, .copyright3").animate({right: '0px'}, 2000);
     $(".social, .social2, .social3").animate({left: '0px'}, 2000);
-    $(".dark-description").animate({bottom: '4%', opacity: '1'}, 3000);
+    $(".dark-description").animate({bottom: '10px', opacity: '1'}, 3000);
 
 });
