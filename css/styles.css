@@ -28,7 +28,9 @@ body {
     background-position: center;
     background-size: 55% 55%;
 }
+@supports (-webkit-touch-callout: none) {
 
+}
 .section {
     /*=================== transition: all 1s;
     ===================*/
